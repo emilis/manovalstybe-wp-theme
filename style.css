@@ -66,13 +66,10 @@ padding:12px 40px 0;
     display: inline;
 }
 
-#language {
-    color: #fe9;
-}
-
 #nav ul {
 height:50px;
 float:right;
+
 }
 #nav li {
 text-align:center;
@@ -97,6 +94,10 @@ background-color: #39af01;
 
 #nav li a:hover {
 background-color:#36920c;
+}
+
+#language {
+    color: #fe9;
 }
 
 #yui-main > .yui-b {
