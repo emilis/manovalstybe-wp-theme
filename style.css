@@ -319,7 +319,7 @@ display:block;
 border-bottom:none;
 }
 #sidebar .block li a:hover {
-background:#f7f7f7 url(images/bullet_red.gif) no-repeat scroll 6px 52%;
+background:#f7f7f7 url(images/bullet_green.gif) no-repeat scroll 6px 52%;
 }
 #sidebar .widget_search label {
 display:block;
