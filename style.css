@@ -61,6 +61,15 @@ float:right;
 width:auto;
 padding:12px 40px 0;
 }
+
+#nav div.textwidget {
+    display: inline;
+}
+
+#language {
+    color: #fe9;
+}
+
 #nav ul {
 height:50px;
 float:right;
