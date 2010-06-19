@@ -12,7 +12,8 @@
 <!--[if IE]><link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/ie.css" type="text/css" media="screen" /><![endif]-->
 <link rel="alternate" type="application/rss+xml" title="<?php bloginfo('name'); ?> RSS Feed" href="<?php bloginfo('rss2_url'); ?>" />
 <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
-<link rel="shortcut icon" href="/favicon.ico">
+<link rel="shortcut icon" href="/favicon.png" type="image/x-icon" />
+
 
 <?php wp_head(); ?>
 
